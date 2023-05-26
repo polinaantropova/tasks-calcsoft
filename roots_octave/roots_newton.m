@@ -38,8 +38,8 @@ plot(answer,y(answer),'r*');
 answer
 grid on
 
-#
-#Elapsed time is 0.0637581 seconds.
-#answer =
-#
-#  -2.081720  -0.841592  -1.690029   4.201465   0.090170   4.593157
+##
+##Elapsed time is 0.0637581 seconds.
+##answer =
+##
+##  -2.081720  -0.841592  -1.690029   4.201465   0.090170   4.593157
